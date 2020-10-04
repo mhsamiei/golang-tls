@@ -154,7 +154,7 @@ func main() {
 }
 ```
 
-##### [Perfect SSL Labs Score with Go](https://blog.bracelab.com/achieving-perfect-ssl-labs-score-with-go)
+##### [Perfect SSL Labs Score with Go](https://blog.bracebin.com/achieving-perfect-ssl-labs-score-with-go)
 
 ```go
 package main
